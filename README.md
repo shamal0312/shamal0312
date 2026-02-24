@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Shamal Kawya 👋
 
-<!--
-**shamal0312/shamal0312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I am a third-year undergraduate pursuing a BSc (Hons) in Information Technology at SLIIT.  
+I am passionate about full stack development and building scalable, user-friendly web applications using modern technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 What I'm Working On
+- Building full-stack MERN applications  
+- Improving backend development skills with Node.js & Express  
+- Learning advanced system design and clean architecture  
+- Exploring Spring Boot and Java development  
+
+---
+
+## 🛠️ Technologies & Tools
+- Frontend: React.js, Tailwind CSS  
+- Backend: Node.js, Express.js  
+- Database: MongoDB  
+- Other: Java, Spring Boot, Git, GitHub, Figma  
+
+---
+
+## 📫 How to Reach Me
+- Email: shamalkawya@gmail.com  
+- LinkedIn: [https://linkedin.com/in/your-link  ](https://www.linkedin.com/in/shamal-kawya-339107305/)
+ 
+
+---
+
+⭐ Always open to internship opportunities, collaborations, and professional networking.
