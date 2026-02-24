@@ -23,7 +23,7 @@ I am passionate about full stack development and building scalable, user-friendl
 ---
 
 ## 📫 How to Reach Me
-- Email: shamalkawya@gmail.com  
+- Email: shamal.kawya2004@gmail.com 
 - LinkedIn: [https://linkedin.com/in/your-link  ](https://www.linkedin.com/in/shamal-kawya-339107305/)
  
 
